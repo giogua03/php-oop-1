@@ -27,9 +27,6 @@ class Movie{
 $Simpson = new Movie('Simpson', 120, 'cartone', 'Serena Dont');
 $Avatar = new Movie('Avatar', 150, 'fantascienza', 'Tom Derk');
 
-echo 
-
-
 var_dump($Simpson);
 var_dump($Avatar);
 
